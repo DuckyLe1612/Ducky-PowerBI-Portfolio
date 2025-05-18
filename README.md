@@ -4,7 +4,7 @@ This repository contains four end-to-end Power BI projects across different busi
 
 ---
 
-## 🏥 Project 1: Patient Wait List Analysis
+## 🏥 [Project 1: Patient Wait List Analysis](https://drive.google.com/drive/folders/1YiqHQNaWqCU-B5WSF9-RrZ0LeRoNtF5Y?usp=sharing)
 
 ### Overview:
 This project analyzes hospital patient wait lists, highlighting the difference between inpatients (those admitted) and outpatients (those treated without admission). The dashboard helps hospital managers optimize resource allocation and reduce waiting times.
@@ -22,7 +22,7 @@ This project analyzes hospital patient wait lists, highlighting the difference b
 
 ---
 
-## 🛒 Project 2: Blinkit Sales Data Dashboard
+## 🛒 [Project 2: Blinkit Sales Data Dashboard](https://drive.google.com/drive/folders/1Pu8HXJZH0rf7J8V8GgWxnUNo829jMe_e?usp=sharing)
 
 ### Overview:
 A full sales and performance dashboard for Blinkit, designed to analyze sales by product type, outlet characteristics, and customer feedback (ratings). The visuals provide business insights into performance across various store formats.
@@ -39,7 +39,7 @@ A full sales and performance dashboard for Blinkit, designed to analyze sales by
 
 ---
 
-## 🏥 Project 3: Hospital Emergency Room Analysis
+## 🏥 [Project 3: Hospital Emergency Room Analysis](https://drive.google.com/drive/folders/1kWeZxJJ8TNdSUHirpCWplzZSNFQC7krY?usp=sharing)
 
 ### Overview:
 An advanced dashboard solution to monitor Emergency Room (ER) operations. The dashboard tracks KPIs such as daily patient volume, wait time, and referral activity to help improve patient service quality and response efficiency.
@@ -57,7 +57,7 @@ An advanced dashboard solution to monitor Emergency Room (ER) operations. The da
 
 ---
 
-## 🛍️ Project 4: Shopify Sales & Customer Funnel Report
+## 🛍️ [Project 4: Shopify Sales & Customer Funnel Report](https://drive.google.com/drive/folders/1B6U180vl3cxsFm81bNterlPaD4JjjE8o?usp=sharing)
 
 ### Overview:
 An interactive Power BI dashboard to evaluate Shopify sales performance, customer purchase behavior, and long-term value. The dashboard supports dynamic KPI switching and customer segmentation to drive business decisions.
