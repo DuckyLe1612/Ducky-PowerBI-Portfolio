@@ -1,6 +1,6 @@
 # Power BI Projects 
 
-This repository contains four end-to-end Power BI projects across different business domains, including healthcare, e-commerce, and retail analytics. Each project demonstrates my skills in data cleaning, modeling, DAX, and dashboard design to deliver actionable insights.
+This repository contains four end-to-end Power BI projects across different simulated business domains, including healthcare, e-commerce, and retail analytics. Each project demonstrates my skills in data cleaning, modeling, DAX, and dashboard design to deliver actionable insights.
 
 ---
 
