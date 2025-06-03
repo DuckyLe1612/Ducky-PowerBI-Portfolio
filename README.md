@@ -74,7 +74,7 @@ An interactive Power BI dashboard to evaluate Shopify sales performance, custome
 - Dynamic filters, map visuals, and drill-through reports
 
 ---
-# 🎧 [Project 5: Spotify Albums and Artist Engagement Analysis](https://drive.google.com/drive/folders/1VY2VKGG7zDZ0MaMb4cVxGdr6LBNQyqtp?usp=sharing)
+## 🎧 [Project 5: Spotify Albums and Artist Engagement Analysis](https://drive.google.com/drive/folders/1VY2VKGG7zDZ0MaMb4cVxGdr6LBNQyqtp?usp=sharing)
 
 ## Overview
 This project analyzes user engagement with Spotify albums, artists, and tracks over time. The dashboard provides insights into listening patterns, popular albums and artists, and trends between weekdays and weekends.
