@@ -93,7 +93,29 @@ This project analyzes user engagement with Spotify albums, artists, and tracks o
 - Drill-through and drill-down for detailed exploration
   
 ---
+## 🚗 [Project 6: Uber Trip Analysis](https://drive.google.com/drive/folders/1TAVHzNDJygsoiygLPpu4SNv6RV3XzRqn?usp=sharing) 
 
+## Overview 
+This project analyzes Uber trip data to uncover insights about booking behavior, trip efficiency, and revenue trends. It includes interactive dashboards that help stakeholders identify booking patterns, optimize pricing, and improve operational decision-making across time, location, and vehicle types.
+
+## Key Objectives
+- Track total bookings and booking revenue  
+- Measure average booking value, trip distance, and trip duration  
+- Analyze demand trends by time of day and day of week  
+- Identify most frequent pickup/drop-off locations and farthest trips  
+- Understand customer preferences by vehicle and location  
+
+## Tools & Features
+- DAX for dynamic KPIs and global measure selector  
+- Power Query for data preparation and model building  
+- Disconnected table for interactive metric switching  
+- Dynamic visuals with slicers, tooltips, and conditional formatting  
+- Matrix views for vehicle type and location analysis  
+- Heatmap, line, area, and bar charts for time-based patterns  
+- Drill-through to detailed trip records  
+- Bookmarks and buttons (data dictionary, clear slicers, data export)
+  
+---
 ## Technologies Used:
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
