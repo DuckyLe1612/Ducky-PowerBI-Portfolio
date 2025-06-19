@@ -114,7 +114,33 @@ This project analyzes Uber trip data to uncover insights about booking behavior,
 - Heatmap, line, area, and bar charts for time-based patterns  
 - Drill-through to detailed trip records  
 - Bookmarks and buttons (data dictionary, clear slicers, data export)
-  
+---
+## 🌍 [Project 7: Regional Sales Dashboard with YoY Comparison](https://drive.google.com/drive/folders/1zv7VgsZ2GS-XNw21eINXkcEhDAK247RF?usp=sharing)
+
+## Overview
+This project presents an interactive Power BI dashboard that analyzes **Sales**, **Profit**, and **Quantity** across four U.S. regions: **Central, East, South, and West**. It includes **Year-over-Year (YoY)** comparisons, dynamic KPI selection, and insightful visualizations to support decision-making.
+
+## Key Objectives
+- Display **Sales**, **Profit**, and **Quantity** by selected year and region.
+- Allow **dynamic KPI selection** via a disconnected slicer table.
+- Compare **Current Year (CY)** vs **Previous Year (PY)** with **YoY growth metrics**.
+- Visualize **monthly trends** with sparklines and average lines.
+- Show **Sales by State** using a bubble map and supporting bar chart.
+- Provide a **summary matrix** with CY/PY/YoY metrics and conditional formatting.
+
+## Tools & Features
+- **DAX** for YoY % change, previous year metrics, and dynamic KPIs.
+- **Power Query** for data cleaning and transformation.
+- **Disconnected table** to drive dynamic measure selection.
+- **Bubble Map** & **Bar Chart** for geographic insights.
+- **Matrix Visual** with conditional formatting to compare KPIs.
+- **Year slicers** and **Bookmarks** for enhanced interactivity.
+
+## Dashboard Highlights
+- Interactive KPI toggle between Sales, Profit, and Quantity.
+- Sparklines showing monthly trend with average benchmarks.
+- Geo-based Sales view with filterable state-level performance.
+- Clean layout optimized for user experience and data exploration.
 ---
 ## Technologies Used:
 - **Power BI**
